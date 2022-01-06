@@ -44,6 +44,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 
 }
 .half-class{
@@ -62,4 +63,42 @@ section{
     color: white;
     font-weight: 700px;
 }
+.mission{
+    text-align: center;
+}
+#year{
+    color: orange;
+}
+.div-parents{
+    display: flex;
+    padding-left: 50px;
+    margin: 20px;
+    
+    
+}
+.div-parents img{
+    width: 50%;
 
+}
+.div-1{
+    width: 33%;
+    background-color: rgb(238, 183, 129);
+    margin: 2%;
+    padding: 30px 10px;
+    border-radius: 20px;
+    
+}
+.div-2{
+    width: 33%;
+    background-color: rgb(245, 238, 161);
+    margin: 2%;
+    padding: 30px 10px;
+    border-radius: 20px;
+}
+.div-3{
+    width: 33%;
+    background-color: rgb(231, 163, 174);
+    margin: 2%;
+    padding: 30px 10px;
+    border-radius: 20px;
+}
