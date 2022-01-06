@@ -44,7 +44,7 @@ h1{
 }
 section{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 
 }
 .half-class{
@@ -101,4 +101,38 @@ section{
     margin: 2%;
     padding: 30px 10px;
     border-radius: 20px;
+}
+#develop-limit{
+    margin-right: 10px;
+    padding: 25px 50px;
+}
+.covid{
+    text-align: center;
+}
+#Nineteen{
+    color: orange;
+}
+#blue{
+    color: blue;
+}
+.footer-button{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}   
+.footer-button a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.footer-button p{
+    color: white;
+    margin-top: 20px;
+}
+.purple-color{
+    color: purple;
+}
+.orange-color{
+    color: orangered;
+    
 }
