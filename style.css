@@ -1,0 +1,65 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+header{
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50x;   
+}
+.folio{
+    color: #04Ae8f;
+}
+.port{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: #04Ae8f;
+    padding: 15px;
+    font-weight: 900;
+}
+a:hover{
+    color: black;
+}
+
+h1{
+    font-size: 50px;
+}
+.v1{
+    border-left: 6px solid red;
+    padding-left: 10px;
+}
+#purple-color{
+    color: orange;
+}
+#orange-color{
+    color: purple;
+}
+section{
+    display: flex;
+
+}
+.half-class{
+    width: 50%;
+    padding-left: 5%;
+
+}
+.half-class img{
+    width: 70%;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(orangered, red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+
